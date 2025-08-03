@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🍽 Restaurant Cuisine Classifier</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>🍽 Restaurant Cuisine Classifier</h1>
+        <p class="subtitle">Enter a dish description to predict the cuisine</p>
+
+        <form action="/predict" method="POST" class="form-grid">
+            <div class="form-group">
+                <label>Dish Description:</label>
+                <textarea name="description" rows="3" required></textarea>
+            </div>
+
+            <button type="submit" class="btn">🔍 Predict Cuisine</button>
+        </form>
+    </div>
+</body>
+</html>
