@@ -63,11 +63,11 @@ Open in your browser:
 http://127.0.0.1:5000/
 
 ##  Screenshots
- Input Form
+## input Form
 
 ![alt text](input.png)
 
- Prediction Result
+ ## Prediction Result
 
 ![alt text](result.png)
 
