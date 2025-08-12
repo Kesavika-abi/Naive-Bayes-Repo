@@ -72,15 +72,15 @@ http://127.0.0.1:5000/
 ![alt text](result.png)
 
 ##  Use Cases
- Restaurant menu categorization
+ - Restaurant menu categorization
 
- Food delivery app search optimization
+ - Food delivery app search optimization
 
- Machine Learning text classification demonstration
+ - Machine Learning text classification demonstration
 
 ##  Future Enhancements
-Expand dataset with more cuisines
+ - Expand dataset with more cuisines
 
-Use TF-IDF vectorization for better accuracy
+ - Use TF-IDF vectorization for better accuracy
 
-Deploy online via Heroku or Render
+ - Deploy online via Heroku or Render
